@@ -1,1 +1,1 @@
-# Practice
+# Chrome app with Vanilla JS
